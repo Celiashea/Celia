@@ -1,6 +1,6 @@
 <h2> Hi, I'm Celiashea! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Twitter: 专注Code](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: 专注Code](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)](https://twitter.com/whybichzhsh1)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Celiashea](https://img.shields.io/github/followers/celiashea?label=follow&style=social)](https://github.com/Celiashea)
 
