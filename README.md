@@ -1,14 +1,9 @@
 ### Hi there 👋
 
 
-### Github Stats
 
 [![Celiashea GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celiashea&show_icons=true&count_private=true)](https://github.com/Celiashea)
 
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 
 <h3> 🤝🏻 Connect with Me </h3>
 <!--
