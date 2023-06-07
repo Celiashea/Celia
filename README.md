@@ -2,7 +2,7 @@
 
 [![Twitter: 专注Code](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)](https://twitter.com/whybichzhsh1)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Celiashea](https://img.shields.io/github/followers/celiashea?label=follow&style=social)](https://github.com/Celiashea)
+[![GitHub Celiashea](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
