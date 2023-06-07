@@ -1,7 +1,6 @@
 <h2> Hi, I'm Celiashea! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>Software Enginner <a href="http://www.unb.br">U
-Just Dream Big</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner <a href="http://www.unb.br">Just Dream Big</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>24 Fall Application</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: 专注Code](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)](https://twitter.com/whybichzhsh1)
