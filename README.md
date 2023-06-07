@@ -8,7 +8,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-[![Celiashea GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celiashea&show_icons=true&count_public=true)](https://github.com/Celiashea)
+[![Celiashea GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celiashea&show_icons=true&count_private=true)](https://github.com/Celiashea)
 
 
 <!--
