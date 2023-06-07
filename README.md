@@ -2,7 +2,7 @@
 
 [![Twitter: 专注Code](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)](https://twitter.com/whybichzhsh1)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Celiashea](https://img.shields.io/github/followers/Celiashea?label=follow)](https://github.com/Celiashea)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -11,7 +11,6 @@
 [![Celiashea GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celiashea&show_icons=true&count_private=true)](https://github.com/Celiashea)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
 <!--
 **Celiashea/Celiashea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
