@@ -3,7 +3,7 @@
 <p><em>24 Fall Applicant
 </br>I want to be a software enginner</em></p>
 
-[![Twitter: 专注Code](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)](https://twitter.com/whybichzhsh1)
+[![Twitter](https://img.shields.io/twitter/follow/whybichzhsh1?style=flat&logo=Gmail&logoColor=white)](https://twitter.com/whybichzhsh1)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Celiashea)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Celiashea@protonmail.com)
 
