@@ -33,7 +33,9 @@
 
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/
+
+[![HitCount](http://hits.dwyl.com/Celiashea/Celiashea.svg)](http://hits.dwyl.com/Celiashea/Celiashea)
+ <img src="https://komarev.com/ghpvc/?username=Celiashea">
 
 <!--
 **Celiashea/Celiashea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
