@@ -4,7 +4,6 @@
 </br>I want to be a software enginner</em></p>
 
 <a href="https://twitter.com/whybichzhsh1"><img src="https://img.shields.io/twitter/follow/whybichzhsh1?label=Twitter&style=social" alt="Twitter"></a>
-![Twitter Follow](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Celiashea)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Celiashea@protonmail.com)
 
