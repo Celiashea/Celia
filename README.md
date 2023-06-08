@@ -3,6 +3,7 @@
 <p><em>24 Fall Applicant
 </br>I want to be a software enginner</em></p>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Celiashea)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Celiashea@protonmail.com)
 
@@ -28,6 +29,11 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/
 
 <!--
 **Celiashea/Celiashea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
