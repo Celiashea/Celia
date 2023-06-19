@@ -17,6 +17,7 @@
 
 ![Celiashea's github stats](https://github-readme-stats.vercel.app/api?username=Celiashea&hide=contribs,prs&count_private=true&show_icons=true)
 
+<a href="https://github.com/Celiashea"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Celiashea&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="httIsHere's github stats" /></a> 
 
 
 
