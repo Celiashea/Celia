@@ -7,7 +7,7 @@
 
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
 [![](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
-[![](https://img.shields.io/badge/-celia_atti-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61550683108775)](https://www.facebook.com/profile.php?id=61550683108775)
+[![](https://img.shields.io/badge/-Celia_Atti-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61550683108775)](https://www.facebook.com/profile.php?id=61550683108775)
 [![Discord](https://img.shields.io/badge/Discord-留学姊妹|海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
 
 
