@@ -1,6 +1,6 @@
 <h2> Hi, I'm Celia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>ENFJ
+<p><em>INTP
 </br>I want to be a software enginner</em></p>
 
 
